@@ -19,4 +19,4 @@ Zadanie 4
 Stworzenie komponentu, który wyświetli posty bloga.
 
 
-* - mile widziane ostylowanie wpisów na blogu.
+* mile widziane ostylowanie wpisów na blogu.
