@@ -13,6 +13,8 @@ Stworzenie serwisu pobierającego dane z serwera (XY-data - gdzie XY to inicjał
 Do pobrania danych został przygotowany serwer: https://kol2tai.herokuapp.com/
 Posiada on pobranie danych: GET /api/blog/posts
 
+(kompletna ścieżka: https://kol2tai.herokuapp.com/api/blog/posts)
+
 Wygenerowany serwis powinien pobierać wszystkie wpisy na blogu,
 
 # Zadanie 4 
