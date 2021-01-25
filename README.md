@@ -4,9 +4,9 @@
 Utworzenie forka aktualnego repozytorium.
 
 # Zadanie 2 
-Należy wygenerować projekt o nazwie XY-blog-kol2, gdzie XY to inicjały.
+Należy wygenerować projekt w aplikacji Angular o nazwie XY-blog-kol2, gdzie XY to inicjały.
 (przykład dla moich inicjałów DP-blog-kol2).
-Aplikacja posiadać wybrane style CSS podczas tworzenia aplikacji.
+Aplikacja powinna posiadać wybrane style CSS podczas tworzenia procesu aplikacji.
 
 # Zadanie 3 
 Stworzenie serwisu pobierającego dane z serwera (XY-data - gdzie XY to inicjały)
@@ -16,7 +16,7 @@ Posiada on pobranie danych: GET /api/blog/posts
 Wygenerowany serwis powinien pobierać wszystkie wpisy na blogu,
 
 # Zadanie 4 
-Stworzenie komponentu, który wyświetli posty bloga.
+Stworzenie komponentu, który wyświetli posty bloga (dostępne po pobraniu z serwera).
 
 
 * mile widziane ostylowanie wpisów na blogu.
